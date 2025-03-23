@@ -49,7 +49,7 @@ Presentation goal: Understand basics of what Zotero and Obsidian have to offer, 
   	- Getting Obsidian to play nicely
   		- ○ Community plugins: git
   		- ○ Go back to it, enable, look into options
-  			- § Can change how often it backs up (My default is every 30 minutes
+  			- § Can change how often it backs up (My default is every 30 minutes)
   	- To backup manually
   		- ○ Ctrl p for command palette
   		- ○ Run this once on setup to ensure auto-backups will work
