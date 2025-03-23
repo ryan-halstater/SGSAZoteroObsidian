@@ -35,24 +35,24 @@ Presentation goal: Understand basics of what Zotero and Obsidian have to offer, 
 # Bonus Resources
 - Automatically backing up Obsidian using Github
   - Get git and Github ready
-    ○ Create a local git in folder with Obisidian vault folder, following https://git-scm.com/docs/gittutorial
-  			§ Cd to where Obisidian vault is
-  			§ Git init
-  			§ Git add .
-  			§ Git commit -m "Initial loading"
-  		○ Create private github repo
-  		○ Connect local to github using below steps (sourced from [here]([url](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)))
-  			§ Git remote add origin [remote-url from the github, no brackets]
-  			§ Git remote -v   (to check to see that things worked ok)
-  			§ Git push origin master
-  		○ Push to remote
+    - ○ Create a local git in folder with Obisidian vault folder, following https://git-scm.com/docs/gittutorial
+  			- § Cd to where Obisidian vault is
+  			- § Git init
+  			- § Git add .
+  			- § Git commit -m "Initial loading"
+  		- ○ Create private github repo
+  		- ○ Connect local to github using below steps (sourced from [here]([url](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)))
+  			- § Git remote add origin [remote-url from the github, no brackets]
+  			- § Git remote -v   (to check to see that things worked ok)
+  			- § Git push origin master
+  		- ○ Push to remote
   	- Getting Obsidian to play nicely
-  		○ Community plugins: git
-  		○ Go back to it, enable, look into options
-  			§ Can change how often it backs up (My default is every 30 minutes
+  		- ○ Community plugins: git
+  		- ○ Go back to it, enable, look into options
+  			- § Can change how often it backs up (My default is every 30 minutes
   	- To backup manually
-  		○ Ctrl p for command palette
-  		○ Run this once on setup to ensure auto-backups will work
-  			§ Git: commit all chnages
-  			§ Git: push
+  		- ○ Ctrl p for command palette
+  		- ○ Run this once on setup to ensure auto-backups will work
+  			- § Git: commit all chnages
+  			- § Git: push
 
