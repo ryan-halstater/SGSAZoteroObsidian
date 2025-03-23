@@ -35,7 +35,7 @@ Presentation goal: Understand basics of what Zotero and Obsidian have to offer, 
 # Bonus Resources
 - Automatically backing up Obsidian using Github
   - Get git and Github ready
-    - ○ Create a local git in folder with Obisidian vault folder, following https://git-scm.com/docs/gittutorial
+    - ○ Create a local git in folder with Obisidian vault folder, following https://git-scm.com/docs/gittutorial (steps listed below)
   		- § Cd to where Obisidian vault is
   		- § Git init
   		- § Git add .
