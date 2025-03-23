@@ -3,7 +3,7 @@ Supporting documents for 2.25.25 presentation on Zotero and Obsidian
 
 Presentation goal: Understand basics of what Zotero and Obsidian have to offer, and have a starting to point to build own notetaking system from if desired.
 
-## My Takeaways
+## Summary
 - Zotero: Easy way to store read papers, search, and quickly create bibliographies.
 - Obsidian: Notetaking emphasizing links between concepts, easily create searchable and linkable notes on papers from Zotero.
 
