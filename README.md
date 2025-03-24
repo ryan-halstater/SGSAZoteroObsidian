@@ -20,18 +20,28 @@ Presentation goal: Understand basics of what Zotero and Obsidian have to offer, 
 - Getting comfortable with vanilla Obsidian
   - Mentioning original philosophy: Zettelkasten/atomicity of thought (some use it as personal wiki, or second brain)
      - Further details https://zettelkasten.de/overview/
-  - Download Vault from Github and Open
+  - Download Vault from Github and Open (it is very easy to create own vault too!)
   - Creating and linking notes (latex-compatible!)
   - Quickly: graph view and canvases
   - What the vault looks like from directory view
 - Preparing for Zotero integration (based on https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians and https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
-  - Downloading community plugins: Dataview, Zotero Integration
-  - Adjusting community plugin settings    
+  - Install community plugins: Dataview, Zotero Integration
+    - Settings > Community plugins > Enable community plugins > browse
+    - Dont forget to enable them!
+  - Adjusting Zotero Integration options
+    - Note Import location: where notes will be added (probably want it to be in Meta folder)
+    - Adding Import Path
+    - General settings > hotkeys > "import" > add hotkey (makes it much quicker to add paper)
 - What can we do?
   - Uploading papers to a template
   - View papers by metadata or links: Dataviews (https://blacksmithgu.github.io/obsidian-dataview/)
     - Written in Database Query Language (DQL) or Javascript
-   
+  - Drag and drop in images (will want to change default image location)
+
+## Today's Example
+- Reading about LASSO Bootstrapping
+- Want to learn about LASSO from the paper and connect to other penalties we know
+
 # Bonus Resources
 - Automatically backing up Obsidian using Github
   - Get git and Github ready
