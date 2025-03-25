@@ -1,5 +1,5 @@
 # SGSAZoteroObsidian
-Supporting documents for 2.25.25 presentation on Zotero and Obsidian
+Supporting documents for 3.25.25 presentation on Zotero and Obsidian
 
 Presentation goal: Understand basics of what Zotero and Obsidian have to offer, and have a starting to point to build own notetaking system from if desired.
 
