@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "meta/Papers",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import Paper Generic Template",
+      "outputPathTemplate": "Meta/Papers/@{{citekey}}.md",
+      "imageOutputPathTemplate": "meta/attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "meta/Templates/template_sgsa_workshop.md",
+      "cslStyle": "chicago-author-date"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
