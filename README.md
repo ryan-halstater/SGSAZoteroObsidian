@@ -65,4 +65,5 @@ Presentation goal: Understand basics of what Zotero and Obsidian have to offer, 
     - ○ Run this once on setup to ensure auto-backups will work
       - § Git: commit all chnages
       - § Git: push
+- Tool to change citation keys in zotero: https://retorque.re/zotero-better-bibtex/citing/
 
