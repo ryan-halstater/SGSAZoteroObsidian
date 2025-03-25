@@ -1,0 +1,3 @@
+- Regression with loss function $... + \lambda \sum |\beta|$
+- L1 penalty
+- First proposed in 

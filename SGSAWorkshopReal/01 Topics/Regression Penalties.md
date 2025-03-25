@@ -1,0 +1,2 @@
+- [[LASSO]] [[meta/Papers/@tibshiraniRegressionShrinkageSelection1996|@tibshiraniRegressionShrinkageSelection1996]]
+- Ridge, introduced in [[meta/papers/@croneSingularValueDecomposition1972|@croneSingularValueDecomposition1972]] popularized in Ridge Regression: Biased Estimation for Nonorthogonal Problems: Arthur E. Hoerl & Robert W. Kennard
